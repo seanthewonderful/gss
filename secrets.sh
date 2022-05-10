@@ -1,0 +1,9 @@
+# twitter_api_key="PbCpzCP5aVq39GembNWSAo89V"
+twitter_api_key_secret="aKOYl7fP4lQauA9yKDaBrC67Kl8d2SYiVtXnY4O3luC5FvurX1"
+twitter_bearer_token="AAAAAAAAAAAAAAAAAAAAAGefcQEAAAAAWtdc9ZAkIjTgWx%2FP7l7h4KXV%2BX8%3DsEfZdl5ZeZtEaf8om1JPhy51PAJYaEpyuGf1TkAHybiPNAPmGG"
+
+#oAuth Twitter
+client_id="TWY2aW5PRmJNZFNETkI3a3FkSlU6MTpjaQ"
+client_secret="sbweqebwpMyiQuFmKMJfOVB7DINt2INh29L0R0CqaFjBtdxAYo"
+
+
