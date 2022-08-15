@@ -1,6 +1,8 @@
 import requests
+import json
 
-endpoint = "https://api.twitter.com/2/users/:id/liked_tweets"
+
+endpoint = "https://api.twitter.com/2/tweets/search/recent?query="
 
 headers = {
     "access_token": "PbCpzCP5aVq39GembNWSAo89V",
@@ -12,6 +14,9 @@ params = {
     'id': "2620199928"
 }
 
+hashtag_params = "sponsored"
+
+url = endpoint + hashtag_params
 
 response = requests.get(url=endpoint, params=params, headers=headers)
 print(response.json())
